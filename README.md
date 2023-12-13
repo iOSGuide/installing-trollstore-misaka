@@ -2,21 +2,21 @@
 
 ![Cover Image](link_to_cover_image)
 
-## Topic 1: Misaka Tweak Manager for TrollStore 2
+## Misaka Tweak Manager for TrollStore 2
 
 Misaka is a powerful tweak manager designed for MacDirtyCow and KFD exploits, enabling iOS modification without jailbreaking. With support for iOS 16.2 to iOS 17.2, Misaka is essential for installing TrollStore 2 without the conventional jailbreak process.
 
 ![Misaka App Icon](https://iexmo.com/updates/misaka-ipa-ios/)
 
-Download Misaka Tweak Manager for TrollStore 2 - [Link](https://iexmo.com/updates/misaka-ipa-ios/)
+[Download Misaka Tweak Manager for TrollStore 2](https://iexmo.com/updates/misaka-ipa-ios/)
 
-## Topic 2: Misaka TrollStore 2 Installer
+## Misaka TrollStore 2 Installer
 
 The integrated TrollStore 2 installer in Misaka leverages MacDirtyCow and KFD exploits, making it exclusive to devices running iOS or iPadOS 14.0-16.6 beta 1.
 
-## Topic 3: TrollStore 2 Install: Misaka Method for iOS 16
+## TrollStore 2 Install: Misaka Method for iOS 16
 
-### Sub Topic 1: Misaka TrollStore 2 Installer Requirements
+### Misaka TrollStore 2 Installer Requirements
 
 Before you begin, ensure you have the following:
 
@@ -31,7 +31,7 @@ Before you begin, ensure you have the following:
 6. Download TrollsMe for TrollStore 2.
    - [Download TrollsMe](https://iospack.com/apps/trollsme-trollstore/)
 
-### Sub Topic 2: Install Misaka Tweak Manager
+### Install Misaka Tweak Manager
 
 1. Open Sideloadly on your computer.
 2. Connect your iOS device to your computer.
@@ -41,7 +41,7 @@ Before you begin, ensure you have the following:
 6. If Sideloadly needs to make a request to its servers for free developer accounts, consent to this step.
 7. Wait for the Misaka Tweak Manager app to install on your iOS device.
 
-### Sub Topic 3: Trusting the Misaka Tweak Manager
+### Trusting the Misaka Tweak Manager
 
 1. On your iOS device, go to Settings > General > Device Management > <Your Apple ID>.
 2. In some cases, Device Management may be labeled as Profiles and Device Management.
@@ -50,41 +50,41 @@ Before you begin, ensure you have the following:
 
 *Note: If not already enabled, enable Developer Mode in Settings > Privacy & Security.
 
-### Sub Topic 4: Injecting TrollStore Helper
+### Injecting TrollStore Helper
 
 1. Open the Misaka app on your device.
 2. Navigate to the "Packages [Emu/Var]" tab.
 3. Tap the bottom-left button (ToolBox) and install TrollStore, then tap Tips.
 4. Your device will respring after tapping Tips.
 
-### Sub Topic 5: Install TrollStore 2 IPA Installer for iOS 15.5 - 16.6.1, 17.0
+### Install TrollStore 2 IPA Installer for iOS 15.5 - 16.6.1, 17.0
 
 1. Unlock your device.
 2. Open the Tips app.
 3. Tap "Install TrollStore."
 4. Your device should respring, and TrollStore 2 will be installed successfully.
 
-### Sub Topic 6: Install Persistence Helper
+### Install Persistence Helper
 
 1. Open the TrollStore app on your home screen.
 2. Press Settings, then Install Persistence Helper.
 3. Select Tips from the list of apps.
 
-### Sub Topic 7: Install TrollStore 2 Compatible IPA Files
+### Install TrollStore 2 Compatible IPA Files
 
 The latest version of TrollStore 2 supports IPA apps that you can directly download via the TrollsMe TrollStore 2 AppStore with ease.
 
-Download TrollsMe TrollStore - [Link](https://iospack.com/apps/trollsme-trollstore/)
+[Download TrollsMe TrollStore](https://iospack.com/apps/trollsme-trollstore/)
 
 Congratulations! You have successfully installed TrollStore 2 on your iOS device using the Misaka TrollStore 2 Installer without jailbreaking. Explore the features and functionalities of TrollStore 2 on your device.
 
-## Topic 4: TrollStore 2 Installation: All Methods | No Computer
+## TrollStore 2 Installation: All Methods | No Computer
 
 Install TrollStore 2 effortlessly with the new no-revoke method, available for iOS 14.0, 15.0-16.6.1, and iOS 17.0 versions. No computer required.
 
 TrollStore 1 and TrollStore 2 Install Guides - [Link](https://iexmo.com/updates/trollstore/)
 
-## Topic 5: Credits
+## Credits
 
 - Lars Fröder (opa334): Creator of the TrollStore Jailed iOS app.
 - alfiecg_dev: Recognized for identifying the CoreTrust bug.
