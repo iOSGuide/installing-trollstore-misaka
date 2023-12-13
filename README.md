@@ -1,6 +1,6 @@
 # TrollStore 2 Installation Guide via Misaka TrollStore 2 Installer Without Jailbreak
 
-Install TrollStore 2 using the Misaka TrollStore 2 Installer with the step-by-step guide, without jailbreak and without using a PC on your iOS device. This TrollStore 2 installation method utilizes the Misaka tweak manager, which supports iOS/iPadOS 16.2 to 16.5 and 16.6b1 to 17.2.\
+Install TrollStore 2 using the Misaka TrollStore 2 Installer with the step-by-step guide, without jailbreak and without using a PC on your iOS device. This TrollStore 2 installation method utilizes the Misaka tweak manager, which supports iOS/iPadOS 16.2 to 16.5 and 16.6b1 to 17.2.
 
 ![Cover Image](link_to_cover_image)
 
@@ -88,11 +88,11 @@ Install TrollStore 2 effortlessly with the new no-revoke method, available for i
 
 ## Credits
 
-- Lars Fröder (opa334): Creator of the TrollStore Jailed iOS app.
-- alfiecg_dev: Recognized for identifying the CoreTrust bug.
-- Google Threat Analysis Group: Discovered the CoreTrust bug.
-- LinusHenze: Revealed the installd bypass used for TrollStore installation.
-- Misaka Tweak Manager: The Misaka Team is credited for developing a powerful tweak manager.
-- TrollsMe Developer Team: Developers of the TrollsMe App.
+- Lars Fröder (opa334): Creator of the TrollStore Jailed iOS app, enabling the permanent installation of IPAs with customized entitlements and root helpers.
+- alfiecg_dev: Recognized for identifying the CoreTrust bug, contributing to the functionality of TrollStore by patching and automating the bypass.
+- Google Threat Analysis Group: Discovered the CoreTrust bug within an in-the-wild spyware chain and responsibly reported it to Apple.
+- LinusHenze: Revealed the installd bypass used for TrollStore installation on iOS 14-15.6.1 through TrollHelperOTA and identified the original CoreTrust bug utilized in TrollStore 1.0.
+- Misaka Tweak Manager: The Misaka Team is credited for developing a powerful tweak manager, utilizing MacDirtyCow & KFD exploits for iOS device customization without resorting to jailbreaking.
+- TrollsMe Developer Team: Developers of the TrollsMe App, the comprehensive TrollStore application seamlessly integrating all TrollStore tools.
 
 *Note: This installation guide is provided for educational purposes only.*
