@@ -59,6 +59,8 @@ Before you begin, ensure you have the following:
 3. Tap the bottom-left button (ToolBox) and install TrollStore, then tap Tips.
 4. Your device will respring after tapping Tips.
 
+![Install TrollStore Misaka](https://github.com/iOSGuide/installing-trollstore-misaka/blob/main/How%20to%20Install%20TrollStore%20with%20Misaka.png)
+
 ### Install TrollStore 2 IPA Installer for iOS 15.5 - 16.6.1, 17.0
 
 1. Unlock your device.
