@@ -82,7 +82,7 @@ Congratulations! You have successfully installed TrollStore 2 on your iOS device
 
 Install TrollStore 2 effortlessly with the new no-revoke method, available for iOS 14.0, 15.0-16.6.1, and iOS 17.0 versions. No computer required.
 
-TrollStore 1 and TrollStore 2 Install Guides - [Link](https://iexmo.com/updates/trollstore/)
+[TrollStore 1 and TrollStore 2 Install Guides](https://iexmo.com/updates/trollstore/)
 
 ## Credits
 
