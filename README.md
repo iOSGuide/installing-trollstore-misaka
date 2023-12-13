@@ -8,7 +8,7 @@ Install TrollStore 2 using the Misaka TrollStore 2 Installer with the step-by-st
 
 Misaka is a powerful tweak manager designed for MacDirtyCow and KFD exploits, enabling iOS modification without jailbreaking. With support for iOS 16.2 to iOS 17.2, Misaka is essential for installing TrollStore 2 without the conventional jailbreak process.
 
-![Misaka App Icon](https://iexmo.com/updates/misaka-ipa-ios/)
+![Misaka App Icon](https://github.com/iOSGuide/installing-trollstore-misaka/blob/main/Install%20TrollStore%202%20via%20Misaka.png)
 
 [Download Misaka Tweak Manager for TrollStore 2](https://iexmo.com/updates/misaka-ipa-ios/)
 
