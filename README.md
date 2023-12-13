@@ -1,5 +1,7 @@
 # TrollStore 2 Installation Guide via Misaka TrollStore 2 Installer Without Jailbreak
 
+Install TrollStore 2 using the Misaka TrollStore 2 Installer with the step-by-step guide, without jailbreak and without using a PC on your iOS device. This TrollStore 2 installation method utilizes the Misaka tweak manager, which supports iOS/iPadOS 16.2 to 16.5 and 16.6b1 to 17.2.\
+
 ![Cover Image](link_to_cover_image)
 
 ## Misaka Tweak Manager for TrollStore 2
