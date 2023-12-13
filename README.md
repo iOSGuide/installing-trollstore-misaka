@@ -33,10 +33,10 @@ Before you begin, ensure you have the following:
 
 ### Install Misaka Tweak Manager
 
-1. Open Sideloadly on your computer.
+1. Open [Sideloadly](https://iexmo.com/sideloadly/) on your computer.
 2. Connect your iOS device to your computer.
 3. Ensure your computer is trusted to access your device's contents.
-4. Drag and drop the Misaka .ipa file into Sideloadly.
+4. Drag and drop the [Misaka .ipa file](https://iexmo.com/updates/misaka-ipa-ios/) into Sideloadly.
 5. Enter your Apple ID and password.
 6. If Sideloadly needs to make a request to its servers for free developer accounts, consent to this step.
 7. Wait for the Misaka Tweak Manager app to install on your iOS device.
